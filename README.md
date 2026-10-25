@@ -44,15 +44,26 @@ My next goal is to improve autonomous object localization, grasping, and safe ma
 
 ## 🎓 Education & Research
 
-**Master's Degree — Intelligent Systems and Energy**  
+
+### 🎓 Master's Program — Data Science and Artificial Intelligence
+International Telematic University UNINETTUNO, Italy  
+Professional Master's Program — 1,500 hours  
+Focus: Machine Learning, Data Analytics, Artificial Intelligence,
+Big Data, Cloud Computing, Python, and Generative AI.
+
+### 🎓 Master's Degree — Intelligent Systems and Energy
 Faculty of Sciences and Techniques, Fez, Morocco
 
-**Bachelor's Degree — Electrical Engineering**  
+### 🎓 Bachelor's Degree — Electrical Engineering
 Faculty of Sciences and Techniques, Fez, Morocco
+### 🔬 PhD Research Experience — AI for Autonomous Robotics (2024–2025)
 
-**Doctoral Research Experience — Artificial Intelligence for Autonomous Robotics**
+Completed the first year of a PhD research program focused on
+Artificial Intelligence for autonomous robotic systems and
+energy-aware robotics.
 
-Completed one year of doctoral-level research focused on intelligent and energy-aware autonomous robotic systems.
+The PhD program was not completed.
+
 
 ---
 
